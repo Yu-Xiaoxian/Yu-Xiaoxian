@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I’m currently working on:
+- Indoor SLAM for autonomous vechicles
+- Implements of new featrures of C++2x
+
+📫 Reach me:
+- email: self@yu-xiaoxian.me
+
 <!--
 **Yu-Xiaoxian/Yu-Xiaoxian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
