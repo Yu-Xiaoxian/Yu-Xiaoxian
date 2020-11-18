@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on:
 - Indoor SLAM for autonomous vechicles
-- Implements of new featrures of C++2x
+- Learning new featrures of C++2x
 
 📫 Reach me:
 - email: self@yu-xiaoxian.me
