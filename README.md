@@ -2,6 +2,7 @@
 
 🔭 I’m currently working on:
 - Indoor SLAM for autonomous vechicles
+- Learning CSAPP for better understanding of Computer System
 - Learning new featrures of C++2x
 
 📫 Reach me:
