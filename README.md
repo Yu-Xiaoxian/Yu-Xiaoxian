@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on:
-- Indoor SLAM for autonomous vechicles
+- Indoor SLAM for autonomous vechicles: Expecially scan matching and point cloud register
 - Learning CSAPP for better understanding of Computer System
 - Learning new featrures of C++2x
 
